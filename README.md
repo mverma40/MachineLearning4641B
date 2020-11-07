@@ -44,13 +44,13 @@ Our execution of the elbow method to find the best possible # of clusters for K-
   <img src="Elbowimg.png" width="700" title="hover text">
 </p>
 
-Our final visual after only running K-means without including other features such as:
- Sqft,  # Bedrooms in addition to our previously shown Price, Region.
+Our final visual after only running K-means without including other features such as
+Sqft and # of Bedrooms in addition to our previously shown Price and Region. This approach was not very useful because there was no differentiating factor between different price ranges in relation to different regions.  
 <p align="center">
   <img src="KmeansImg.png" width="700" title="hover text">
 </p>
 
-Our final visual model after running K-means and reducing dimensionality with PCA with Sqft,  # Bedrooms included: 
+Our final visual model after running K-means and reducing dimensionality with PCA with Sqft and # Bedrooms included. This approach was very useful as it visually showed us the bundled grouping we could use.
 <p align="center">
   <img src="PCAIMG.png" width="700" title="hover text">
 </p>
