@@ -32,7 +32,7 @@ From here we are testing different Unsupervised Learning ML algorithms to see wh
 
 We plan on exploring more of unsupervised learning and use GMM and a decision tree on the data and out of the 4 machine learning algorithms, we will pick the one that yields the best results. For next steps, once we are able to successfully decide on a final unsupervised learning model, we will then tackle the supervised learning aspect of our project, which makes up a bulk of the work, since the original goal of our project was to be able to predict house prices given features of a house. The supervised learning models that we plan on using will of course include regression and thus we will run models such as Decision Tree Regressors, Logistic Regression, and Neural Networks. Out of these, the ones that yield the best results will be included on our final supervised model.
 
-# -------------------------------------------------------------------------------
+# 
 Our execution of the elbow method to find the best possible # of clusters for K-means:
 
 <p align="center">
