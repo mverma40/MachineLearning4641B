@@ -38,7 +38,7 @@ The final result of the cleaned up data once all NaN value were predicted by lin
   <img src="cleanData.png" width="700" title="hover text">
 </p>
 
-Our execution of the elbow method to find the best possible # of clusters for K-means:
+Our execution of the elbow method to find the best possible # of clusters for K-means. This method helped in relation to K-means as it gave us a better idea of number of clusters to use.
 
 <p align="center">
   <img src="Elbowimg.png" width="700" title="hover text">
