@@ -47,7 +47,7 @@ Our execution of the elbow method to find the best possible # of clusters for K-
 </p>
 
 Our final visual after only running K-means without including other features such as
-Sqft and # of Bedrooms in addition to our previously shown Price and Region. This approach was not very useful because there was no differentiating factor between different price ranges in relation to different regions.  
+Sqft and # of Bedrooms in addition to our previously shown Price and Region. This approach was somewhat  useful because although there was little differentiating factor between different price ranges in relation to different regions it for a select few of the price ranges it assists in actual region prediction.
 <p align="center">
   <img src="KmeansImg.png" width="700" title="hover text">
 </p>
@@ -85,6 +85,10 @@ Our Final attempt using our ADABooster combined with the XGBooster Model to pred
   <img src="t1.png" width="700" title="hover text">
 </p>
 
+Region vs Price Final Correlation
+<p align="center">
+  <img src="KmeansImg.png" width="700" title="hover text">
+</p>
 
 
 # Links/Sources of Use
