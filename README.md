@@ -80,7 +80,7 @@ Our Initial attempt using our DecisionTreeRegression Model to predict house pric
 
 
 
-Our Final attempt using our ADABooster combined with the XGBooster Model to predict house prices within a precision range of a more concise $17000 yielded the following results (as you can see, the second graph has some less fluctuation than the one above which represents the modified precision range -- the line ia also more centered showing improved accuracy):
+Our Final attempt using our ADABooster combined with the XGBooster Model to predict house prices within a precision range of a more concise $17000 yielded the following results (as you can see, the second graph has some less fluctuation than the one above which represents the modified precision range -- the line is also more centered showing improved accuracy):
 <p align="center">
   <img src="t1.png" width="700" title="hover text">
 </p>
