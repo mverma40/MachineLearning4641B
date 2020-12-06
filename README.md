@@ -2,7 +2,7 @@
 Machine Learning House Price Prediction
 
 <p align="center">
-  <img src="ML.png" width="700" title="hover text">
+  <img src="im.png" width="700" title="hover text">
 </p>
 
 
