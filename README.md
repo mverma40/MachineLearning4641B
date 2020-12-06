@@ -73,7 +73,17 @@ to work with which drove the accuracy prediction down once again. Thus in the en
 We believe that our accuracy was reasonable given the amount of data and the amount of invalid entries we had to make up for in our columns. If a customer did want to find out the price of a specific manufactured house given its features, not only would we be able to give him/her an actual prediction of the price they would be looking at, but we would also be able to show the customer protantial other areas in which they can look houses given the correlation diagram that we finalized in our data.We set out to make house price predicting more easy and we believe that although we hit a fair amount of roadblocks we did come out with a well built model that performs well given valid input.
 
 
+Our Initial attempt using our DecisionTreeRegression Model to predict house prices within a precision range of $20000 yielded the following results (as you can see, the second graph has some fluctuation which represents the precision range):
+<p align="center">
+  <img src="t0.png" width="700" title="hover text">
+</p>
 
+
+
+Our Final attempt using our ADABooster combined with the XGBooster Model to predict house prices within a precision range of a more concise $17000 yielded the following results (as you can see, the second graph has some less fluctuation than the one above which represents the modified precision range -- the line ia also more centered showing improved accuracy):
+<p align="center">
+  <img src="t1.png" width="700" title="hover text">
+</p>
 
 
 
